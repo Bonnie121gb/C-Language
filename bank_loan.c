@@ -2,7 +2,7 @@
 /*
 Name: Cheruiyot Boniface
 Reg: CT100/G/20094/23
-Description: to prompt the student to enter the bank loan qualifications of a customer 
+Description: prompt the user to enter details to qualify for a bank loan 
 */
 #include <stdio.h>
 
